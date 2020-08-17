@@ -3,7 +3,7 @@
 # Demo Code for Dissecting Rails 6 course
 
 - [x] Rails new
-- [ ] File system
+- [x] File system
 - [ ] Rails server
 - [ ] Homepage with controller generator
 - [ ] Authentication with Devise
