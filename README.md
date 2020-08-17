@@ -4,7 +4,7 @@
 
 - [x] Rails new
 - [x] File system
-- [ ] Rails server
+- [x] Rails server
 - [ ] Homepage with controller generator
 - [ ] Authentication with Devise
 - [ ] Protecting routes with `authenticate_user!`
