@@ -5,7 +5,7 @@
 - [x] Rails new
 - [x] File system
 - [x] Rails server
-- [ ] Homepage with controller generator
+- [x] Homepage with controller generator
 - [ ] Authentication with Devise
 - [ ] Protecting routes with `authenticate_user!`
 - [ ] Model generator for Topic
