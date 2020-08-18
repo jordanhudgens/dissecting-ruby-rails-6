@@ -6,7 +6,8 @@
 - [x] File system
 - [x] Rails server
 - [x] Homepage with controller generator
-- [ ] Authentication with Devise
+- [x] Authentication with Devise
+- [ ] Logout
 - [ ] Protecting routes with `authenticate_user!`
 - [ ] Model generator for Topic
 - [ ] Scaffold generator for Guide
