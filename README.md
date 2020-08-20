@@ -5,9 +5,10 @@
 - [x] Rails new
 - [x] File system
 - [x] Rails server
+- [x] Show how to use a different port with the rails server
 - [x] Homepage with controller generator
 - [x] Authentication with Devise
-- [ ] Logout
+- [x] Logout
 - [ ] Protecting routes with `authenticate_user!`
 - [ ] Model generator for Topic
 - [ ] Scaffold generator for Guide
@@ -18,7 +19,6 @@
 - [ ] Routing
 - [ ] Custom routing
 - [ ] Vanity URLs with Friendly ID
-- [ ] Show how to use a different port with the rails server
 - [ ] Rails console
 - [ ] Seeds with Faker
 - [ ] Show how partials work, including working with locals
