@@ -9,8 +9,8 @@
 - [x] Homepage with controller generator
 - [x] Authentication with Devise
 - [x] Logout
-- [ ] Protecting routes with `authenticate_user!`
-- [ ] Model generator for Topic
+- [x] Protecting routes with `authenticate_user!`
+- [x] Model generator for Topic
 - [ ] Scaffold generator for Guide
 - [ ] Symbols vs strings
 - [ ] Strong params
