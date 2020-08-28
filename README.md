@@ -11,6 +11,8 @@
 - [x] Logout
 - [x] Protecting routes with `authenticate_user!`
 - [x] Model generator for Topic
+- [ ] Rails console
+- [ ] Seeds with Faker
 - [ ] Scaffold generator for Guide
 - [ ] Symbols vs strings
 - [ ] Strong params
@@ -19,8 +21,6 @@
 - [ ] Routing
 - [ ] Custom routing
 - [ ] Vanity URLs with Friendly ID
-- [ ] Rails console
-- [ ] Seeds with Faker
 - [ ] Show how partials work, including working with locals
 - [ ] Design implementation
 - [ ] form_for
