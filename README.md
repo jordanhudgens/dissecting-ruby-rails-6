@@ -11,7 +11,7 @@
 - [x] Logout
 - [x] Protecting routes with `authenticate_user!`
 - [x] Model generator for Topic
-- [ ] Rails console
+- [x] Rails console
 - [ ] Seeds with Faker
 - [ ] Scaffold generator for Guide
 - [ ] Symbols vs strings
