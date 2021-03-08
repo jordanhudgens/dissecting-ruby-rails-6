@@ -12,6 +12,7 @@
 - [x] Protecting routes with `authenticate_user!`
 - [x] Model generator for Topic
 - [x] Rails console
+- [x] Upgrading a gem
 - [ ] Seeds with Faker
 - [ ] Scaffold generator for Guide
 - [ ] Symbols vs strings
